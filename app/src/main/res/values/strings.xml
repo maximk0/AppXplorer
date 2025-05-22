@@ -1,3 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">AppXplorer</string>
+    <string name="app_list_ic_description">App icon</string>
+    <string name="app_list_version">Version: %s</string>
+    <string name="app_list_no_image">No icon</string>
+    <string name="details_title">App Details</string>
+    <string name="details_back">Back</string>
+    <string name="details_version">Version: %s</string>
+    <string name="details_package">Package: %s</string>
+    <string name="details_checksum">Checksum: %s</string>
+    <string name="details_launch">Launch App</string>
+    <string name="details_name">Name: %s</string>
+    <string name="details_error">Failed to load app details</string>
+    <string name="details_cannot_launch_system_app">Cannot launch system application</string>
 </resources>
