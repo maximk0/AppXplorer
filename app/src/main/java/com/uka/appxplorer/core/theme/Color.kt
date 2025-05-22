@@ -1,4 +1,4 @@
-package com.uka.appxplorer.ui.theme
+package com.uka.appxplorer.core.theme
 
 import androidx.compose.ui.graphics.Color
 
